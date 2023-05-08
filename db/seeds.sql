@@ -2,9 +2,9 @@ INSERT INTO department (name)
 VALUES ("FOH"),
        ("BOH"),
        ("MARKETING"),
-       ("RESERVATIONS");
-       ("EVENTS");
-       ("SALES");
+       ("RESERVATIONS"),
+       ("EVENTS"),
+       ("SALES"),
        ("ACCOUNTS");
 
 INSERT INTO roles(title, salary, department_id)
